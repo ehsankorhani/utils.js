@@ -1,0 +1,23 @@
+{
+  "name": "utils.js",
+  "version": "1.0.0",
+  "description": "collection of reusable JavaScript utility functions.",
+  "main": "dist/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehsankorhani/utils.js.git"
+  },
+  "keywords": ["javascript"],
+  "author": "Ehsan Korhani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ehsankorhani/utils.js/issues"
+  },
+  "homepage": "https://github.com/ehsankorhani/utils.js#readme"
+}

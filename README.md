@@ -6,14 +6,14 @@
 
 All available methods
 
-- [func](#func)
+- [removeEmptyProps](#removeEmptyProps)
 
-#### `func()`
+#### `removeEmptyProps()`
 
 The all method returns the underlying array represented by the collection:
 
 ```js
-data({}).func();
+utils({ name: 'Alfie', age: '' }).removeEmptyProps();
 
-// {}
+// { name: 'Alfie' }
 ```
